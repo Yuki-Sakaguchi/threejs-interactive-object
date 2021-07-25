@@ -6,7 +6,7 @@ import * as dat from 'dat.gui'
 
 // Loading 
 const textureLoader = new THREE.TextureLoader()
-const normalTexture = textureLoader.load('/textures/normal-map-wave2.jpg')
+const normalTexture = textureLoader.load('textures/normal-map-wave2.jpg')
 
 // Debug
 const gui = new dat.GUI()
