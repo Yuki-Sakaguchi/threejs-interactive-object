@@ -1,4 +1,4 @@
-# Three.js interractive object
+# Three.js interactive object
 
 Three.jsを使ってユーザーの操作に応じたアニメーションを実装してみる。  
 
