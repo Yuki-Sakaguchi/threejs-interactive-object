@@ -1,6 +1,7 @@
 # Three.js interactive object
 
 Three.jsを使ってユーザーの操作に応じたアニメーションを実装してみる。  
+https://yuki-sakaguchi.github.io/threejs-interactive-object/
 
 - ユーザーのスクロールに応じたアニメーション
 - NormalMapをテクスチャとして使用
