@@ -1,4 +1,7 @@
-# Three.js interactive object
+# Three.js interactive objec
+
+![result](https://user-images.githubusercontent.com/16290220/128709616-d30a2953-01df-492a-9e04-6546ea64b726.gif)
+
 
 Three.jsを使ってユーザーの操作に応じたアニメーションを実装してみる。  
 https://yuki-sakaguchi.github.io/threejs-interactive-object/
